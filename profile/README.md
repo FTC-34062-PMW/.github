@@ -1,35 +1,77 @@
-# PMW
-### FIRST Tech Challenge · Team 34062
+<div align="center">
 
-**Build with purpose. Test with evidence. Improve together.**
+# PMW / 34062
 
-대한민국 FTC 팀 PMW의 GitHub입니다. 로봇 소프트웨어와 시뮬레이션을 개발하고, 설계에서 실험과 개선까지의 과정을 함께 기록합니다.
+**FIRST TECH CHALLENGE · SOUTH KOREA**
 
-## Engineering at PMW
+### Built to compete. Engineered to improve.
 
-| Area | Focus |
-| --- | --- |
-| Robot software | Autonomous routines, TeleOp, mechanisms, and reliable control |
-| Simulation | Repeatable experiments and validation before hardware tests |
-| Engineering | Design decisions, measured results, and reproducible documentation |
-| Collaboration | Issues, focused pull requests, review, and shared knowledge |
+Robot software, simulation, and the engineering behind every iteration.
 
-## How we work
+[Engineering workflow](../CONTRIBUTING.md) · [FTC documentation](https://ftc-docs.firstinspires.org/) · [Official SDK](https://github.com/FIRST-Tech-Challenge/FtcRobotController)
 
-1. **Define** — 문제, 제약 조건, 성공 기준을 먼저 정합니다.
-2. **Build** — 작은 변경을 브랜치에서 개발하고 PR로 검토합니다.
-3. **Validate** — 시뮬레이션과 실기체 결과를 구분해 기록합니다.
-4. **Improve** — 로그와 측정값을 바탕으로 다음 설계를 결정합니다.
-
-## Resources
-
-- [Team engineering workflow](https://github.com/FTC-34062-PMW/.github/blob/main/CONTRIBUTING.md)
-- [FTC Documentation](https://ftc-docs.firstinspires.org/)
-- [Official FTC Robot Controller SDK](https://github.com/FIRST-Tech-Challenge/FtcRobotController)
-- [FTC Community](https://ftc-community.firstinspires.org/)
+</div>
 
 ---
 
+## From idea to field
+
+We are **PMW, FTC Team 34062**, based in South Korea. We build robot software and simulation tools, connect design decisions to measured results, and improve through repeatable experiments.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 01 / CONTROL
+**Make the robot dependable.**
+
+Autonomous routines, driver control, mechanism coordination, and clear telemetry.
+
+</td>
+<td width="33%" valign="top">
+
+### 02 / SIMULATE
+**Make iteration repeatable.**
+
+Explore behavior, compare approaches, and document the gap between simulation and hardware.
+
+</td>
+<td width="33%" valign="top">
+
+### 03 / ENGINEER
+**Make progress explainable.**
+
+Record constraints, experiments, tradeoffs, and the evidence behind each improvement.
+
+</td>
+</tr>
+</table>
+
+## Our development loop
+
+**Define → Build → Review → Validate → Improve**
+
+- Start with a clear problem and measurable acceptance criteria.
+- Develop focused changes on branches and review them in pull requests.
+- Record the configuration, conditions, and results of every meaningful test.
+- Keep simulation results and hardware validation clearly distinguished.
+
+## Explore
+
+| Resource | Purpose |
+| :--- | :--- |
+| [Team workflow](https://github.com/FTC-34062-PMW/.github/blob/main/CONTRIBUTING.md) | Onboarding, branches, review, testing, and release practice |
+| [Engineering playbook](https://github.com/FTC-34062-PMW/.github/blob/main/docs/ENGINEERING_PLAYBOOK.md) | Experiment records, hardware checks, and competition preparation |
+| [FTC documentation](https://ftc-docs.firstinspires.org/) | Official programming and control-system guidance |
+| [FTC Robot Controller SDK](https://github.com/FIRST-Tech-Challenge/FtcRobotController) | Official upstream software and releases |
+
+<div align="center">
+
+---
+
+**PMW · FTC 34062**  
 *Gracious Professionalism® · Coopertition®*
 
-PMW is a participating team; this organization is not an official FIRST software distribution.
+<sub>A team workspace for learning, building, and competing in FIRST Tech Challenge.</sub>
+
+</div>
