@@ -1,6 +1,8 @@
 <div align="center">
 
-![PMW — FTC Team 34062](https://raw.githubusercontent.com/FTC-34062-PMW/.github/main/profile/assets/header.svg)
+<img src="https://avatars.githubusercontent.com/u/351029106?s=200&v=4" alt="PMW team logo" width="160" />
+
+# PMW / 34062
 
 **FIRST TECH CHALLENGE · SOUTH KOREA**
 
