@@ -1,6 +1,6 @@
 <div align="center">
 
-# PMW / 34062
+![PMW — FTC Team 34062](https://raw.githubusercontent.com/FTC-34062-PMW/.github/main/profile/assets/header.svg)
 
 **FIRST TECH CHALLENGE · SOUTH KOREA**
 
@@ -8,7 +8,7 @@
 
 Robot software, simulation, and the engineering behind every iteration.
 
-[Engineering workflow](../CONTRIBUTING.md) · [FTC documentation](https://ftc-docs.firstinspires.org/) · [Official SDK](https://github.com/FIRST-Tech-Challenge/FtcRobotController)
+[Engineering workflow](https://github.com/FTC-34062-PMW/.github/blob/main/CONTRIBUTING.md) · [FTC documentation](https://ftc-docs.firstinspires.org/) · [Official SDK](https://github.com/FIRST-Tech-Challenge/FtcRobotController)
 
 </div>
 
