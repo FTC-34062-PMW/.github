@@ -1,0 +1,45 @@
+name: Experiment record
+description: Plan and record reproducible simulation, bench, or field experiments.
+title: "[Experiment] "
+body:
+  - type: dropdown
+    id: environment
+    attributes:
+      label: Environment
+      options:
+        - Simulation
+        - Bench hardware
+        - Field / robot
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: Question and hypothesis
+      description: What decision will the experiment inform? What outcome do you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: setup
+    attributes:
+      label: Reproduction setup
+      description: Record the commit, configuration, versions, seed, battery condition, starting pose, and controlled variables as relevant.
+    validations:
+      required: true
+  - type: textarea
+    id: procedure
+    attributes:
+      label: Procedure and metrics
+      description: Include repeatable steps, trial count, units, and success thresholds.
+    validations:
+      required: true
+  - type: textarea
+    id: results
+    attributes:
+      label: Results and artifacts
+      description: Complete after testing. Include failed trials, raw data links, summaries, and uncertainty.
+  - type: textarea
+    id: decision
+    attributes:
+      label: Conclusion and next action
+      description: Explain what the evidence supports and what remains unverified.
