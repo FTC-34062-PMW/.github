@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">PMW — FTC Team 34062</title>
+<desc id="desc">A navy engineering banner with an orange field path and the PMW wordmark.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#20334e" stroke-width="1"/></pattern></defs>
+<rect width="1200" height="360" rx="20" fill="#0b1424"/>
+<rect x="720" width="480" height="360" fill="url(#grid)"/>
+<path d="M760 285H830Q855 285 855 260V180Q855 155 880 155H985Q1010 155 1010 130V75H1128" fill="none" stroke="#ff8748" stroke-width="4"/>
+<path d="M760 305H830Q875 305 875 260V190Q875 175 890 175H985Q1030 175 1030 130V95H1128" fill="none" stroke="#2d4665" stroke-width="2" stroke-dasharray="5 9"/>
+<circle cx="760" cy="285" r="7" fill="#ff8748"/><circle cx="1128" cy="75" r="10" fill="#0b1424" stroke="#ff8748" stroke-width="3"/>
+<rect x="967" y="137" width="36" height="36" rx="8" fill="#f4f6fa" transform="rotate(-20 985 155)"/>
+<path d="M977 155H993M985 147V163" stroke="#0b1424" stroke-width="2"/>
+<rect x="56" y="50" width="5" height="20" rx="2" fill="#ff8748"/>
+<text x="77" y="65" fill="#b6c6da" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="3">FIRST TECH CHALLENGE</text>
+<text x="50" y="193" fill="#f4f6fa" font-family="Arial,Helvetica,sans-serif" font-size="116" font-weight="800" letter-spacing="-7">PMW<tspan fill="#ff8748">.</tspan></text>
+<text x="58" y="243" fill="#f4f6fa" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="600" letter-spacing="4">TEAM 34062</text>
+<text x="58" y="307" fill="#94a8c4" font-family="Arial,Helvetica,sans-serif" font-size="17">Built to compete. Engineered to improve.</text>
+<text x="1128" y="326" text-anchor="end" fill="#6f86a5" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="3">SOUTH KOREA / PMW</text>
+</svg>
