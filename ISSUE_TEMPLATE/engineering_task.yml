@@ -1,0 +1,43 @@
+name: Engineering task
+description: Plan a focused feature, design change, or team task.
+title: "[Task] "
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Robot software
+        - Simulation
+        - Mechanical / electrical
+        - Testing / documentation
+        - Team operations
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem and intended outcome
+      description: Explain who needs this, why it matters, and the expected result.
+    validations:
+      required: true
+  - type: textarea
+    id: criteria
+    attributes:
+      label: Acceptance criteria
+      description: Use measurable, checkable outcomes.
+      placeholder: "- [ ] The result can be reproduced by another teammate."
+    validations:
+      required: true
+  - type: textarea
+    id: plan
+    attributes:
+      label: Approach and dependencies
+      description: Note affected interfaces, other issues, hardware access, and constraints.
+  - type: textarea
+    id: validation
+    attributes:
+      label: Validation plan
+      description: Specify simulation, bench, or field tests, metrics, and success thresholds.
+    validations:
+      required: true
