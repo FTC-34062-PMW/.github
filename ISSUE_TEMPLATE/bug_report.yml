@@ -1,0 +1,45 @@
+name: Bug report
+description: Report a reproducible problem in robot software, simulation, or tooling.
+title: "[Bug] "
+body:
+  - type: dropdown
+    id: environment
+    attributes:
+      label: Validation environment
+      options:
+        - Simulation
+        - Bench hardware
+        - Field / robot
+        - Build / tooling
+    validations:
+      required: true
+  - type: input
+    id: revision
+    attributes:
+      label: Revision and configuration
+      description: Commit SHA, software versions, and relevant robot or simulator configuration. Do not include credentials.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: Include starting conditions, inputs, and frequency of the failure.
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Expected and actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence and impact
+      description: Attach relevant logs or measurements. State any unsafe behavior or operational impact and redact sensitive data.
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Fix acceptance criteria
+      description: What test would demonstrate that this problem is resolved?
