@@ -6,8 +6,6 @@
 
 **FIRST TECH CHALLENGE · SOUTH KOREA**
 
-**2026–2027 Season / BioBuzz**
-
 ### Built to compete. Engineered to improve.
 
 Robot software, simulation, and the engineering behind every iteration.
